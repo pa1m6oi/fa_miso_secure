@@ -17,7 +17,7 @@ We study secure communication with movable antennas in a multiple-input single-o
 | Greedy | Greedy discrete port selection | [`code/solvers/greedy.py`](code/solvers/greedy.py) |
 | Exhaustive search | Exhaustive discrete port-selection baseline | [`code/solvers/exhaustive.py`](code/solvers/exhaustive.py) |
 | Random search | Random discrete port-selection baseline | [`code/solvers/random_search.py`](code/solvers/random_search.py) |
-| FPA | Flower pollination algorithm baseline | [`code/solvers/fpa.py`](code/solvers/fpa.py) |
+| FPA | Fixed-position antenna baseline | [`code/solvers/fpa.py`](code/solvers/fpa.py) |
 | PGD | Continuous position optimization, including multiple initializations | [`code/solvers/pgd.py`](code/solvers/pgd.py) |
 | Figure experiments | Experiment setup and plotting for Figs. 2–6 | [`code/experiments/`](code/experiments/) |
 
